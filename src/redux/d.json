@@ -1,0 +1,21 @@
+
+{"trip":[
+    {
+        "id":0,
+        "from":"KRT",
+        "to":"Omdurman",
+        "charge":"1000 SDG"
+    },
+    {
+        "id":1,
+        "from":"KRT",
+        "to":"Bahri",
+        "charge":"800 SDG"
+    },
+    {
+        "id":2,
+        "from":"Omdurman",
+        "to":"Bahri",
+        "charge":"900 SDG"
+    }
+]}
